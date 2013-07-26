@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 .idea/*
 bin
 bin-idea
 .DS_Store
 cobertura.ser
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> 26f217ccbb65b82f8824b8c532ca7ee8279458ea
