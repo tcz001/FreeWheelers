@@ -1,0 +1,32 @@
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+             xmlns:beans="http://www.springframework.org/schema/beans"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.springframework.org/schema/beans
+                    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+                    http://www.springframework.org/schema/security
+                    http://www.springframework.org/schema/security/spring-security-3.1.xsd">
+
+    <beans:import resource='persistence-config.xml'/>
+
+    <http auto-config="true">
+        <intercept-url pattern="/admin" access="ROLE_ADMIN"/>
+        <intercept-url pattern="/item" access="ROLE_ADMIN"/>
+        <intercept-url pattern="/reserve" access="ROLE_ADMIN, ROLE_USER"/>
+        <intercept-url pattern="/userProfile/**" access="ROLE_ADMIN, ROLE_USER"/>
+        <form-login login-page="/login" default-target-url="/userProfile"
+                    authentication-failure-url="/loginfailed" />
+        <logout logout-success-url="/" />
+        <access-denied-handler error-page="/403" />
+    </http>
+
+    <authentication-manager>
+        <authentication-provider>
+            <jdbc-user-service data-source-ref="myDataSource"
+                               users-by-username-query="select account_name, password, enabled from account where account_name=?"
+                               authorities-by-username-query="select a.account_name, ar.role from account a,
+                                    account_role ar where a.account_name = ar.account_name and a.account_name=?"
+                    />
+        </authentication-provider>
+    </authentication-manager>
+
+</beans:beans>

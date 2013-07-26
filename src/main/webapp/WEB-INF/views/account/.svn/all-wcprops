@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/account
+END
+createFailure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/account/createFailure.jsp
+END
+createSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/account/createSuccess.jsp
+END
+create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/account/create.jsp
+END

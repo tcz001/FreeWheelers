@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm
+END
+CCMCheckinDefault.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm/CCMCheckinDefault.html
+END
+CCMCheck.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm/CCMCheck.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm/package-summary.html
+END
+CCMCheckin.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm/CCMCheckin.html
+END
+Continuus.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm/Continuus.html
+END
+CCMCheckout.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm/CCMCheckout.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm/package-tree.html
+END
+CCMCreateTask.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm/CCMCreateTask.html
+END
+CCMReconfigure.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/ccm/CCMReconfigure.html
+END

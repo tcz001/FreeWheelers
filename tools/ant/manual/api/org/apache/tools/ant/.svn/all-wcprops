@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant
+END
+DirectoryScanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/DirectoryScanner.html
+END
+DemuxOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/DemuxOutputStream.html
+END
+SubBuildListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/SubBuildListener.html
+END
+UnsupportedElementException.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/UnsupportedElementException.html
+END
+ProjectHelper.OnMissingExtensionPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/ProjectHelper.OnMissingExtensionPoint.html
+END
+PropertyHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/PropertyHelper.html
+END
+DefaultLogger.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/DefaultLogger.html
+END
+ExtensionPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/ExtensionPoint.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/package-tree.html
+END
+FileScanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/FileScanner.html
+END
+UnsupportedAttributeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/UnsupportedAttributeException.html
+END
+ExitStatusException.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/ExitStatusException.html
+END
+DynamicElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/DynamicElement.html
+END
+DynamicElementNS.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/DynamicElementNS.html
+END
+XmlLogger.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/XmlLogger.html
+END
+BuildEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/BuildEvent.html
+END
+Task.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/Task.html
+END
+MagicNames.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/MagicNames.html
+END
+RuntimeConfigurable.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/RuntimeConfigurable.html
+END
+TaskContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/TaskContainer.html
+END
+ProjectHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/ProjectHelper.html
+END
+Project.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/Project.html
+END
+Location.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/Location.html
+END
+DynamicAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/DynamicAttribute.html
+END
+DynamicAttributeNS.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/DynamicAttributeNS.html
+END
+BuildException.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/BuildException.html
+END
+DemuxInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/DemuxInputStream.html
+END
+TaskConfigurationChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/TaskConfigurationChecker.html
+END
+TypeAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/TypeAdapter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/package-frame.html
+END
+Main.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/Main.html
+END
+Target.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/Target.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/package-summary.html
+END
+PathTokenizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/PathTokenizer.html
+END
+ExitException.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/ExitException.html
+END
+ProjectComponent.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/ProjectComponent.html
+END
+PropertyHelper.PropertyEvaluator.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/PropertyHelper.PropertyEvaluator.html
+END
+PropertyHelper.Delegate.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/PropertyHelper.Delegate.html
+END
+AntTypeDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/AntTypeDefinition.html
+END
+PropertyHelper.PropertySetter.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/PropertyHelper.PropertySetter.html
+END
+IntrospectionHelper.Creator.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/IntrospectionHelper.Creator.html
+END
+Executor.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/Executor.html
+END
+AntClassLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/AntClassLoader.html
+END
+BuildLogger.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/BuildLogger.html
+END
+IntrospectionHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/IntrospectionHelper.html
+END
+NoBannerLogger.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/NoBannerLogger.html
+END
+ComponentHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/ComponentHelper.html
+END
+TaskAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/TaskAdapter.html
+END
+BuildListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/BuildListener.html
+END
+ProjectHelperRepository.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/ProjectHelperRepository.html
+END
+DynamicConfigurator.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/DynamicConfigurator.html
+END
+Diagnostics.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/Diagnostics.html
+END
+DynamicConfiguratorNS.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/DynamicConfiguratorNS.html
+END
+UnknownElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/UnknownElement.html
+END

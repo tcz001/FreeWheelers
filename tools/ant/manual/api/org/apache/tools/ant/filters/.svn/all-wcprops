@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters
+END
+StripLineComments.Comment.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/StripLineComments.Comment.html
+END
+TokenFilter.IgnoreBlank.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.IgnoreBlank.html
+END
+UniqFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/UniqFilter.html
+END
+TokenFilter.StringTokenizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.StringTokenizer.html
+END
+TokenFilter.DeleteCharacters.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.DeleteCharacters.html
+END
+TokenFilter.ReplaceString.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.ReplaceString.html
+END
+FixCrLfFilter.AddAsisRemove.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/FixCrLfFilter.AddAsisRemove.html
+END
+PrefixLines.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/PrefixLines.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/package-tree.html
+END
+ChainableReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/ChainableReader.html
+END
+TokenFilter.ContainsString.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.ContainsString.html
+END
+TabsToSpaces.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TabsToSpaces.html
+END
+TokenFilter.ReplaceRegex.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.ReplaceRegex.html
+END
+SortFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/SortFilter.html
+END
+SuffixLines.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/SuffixLines.html
+END
+ReplaceTokens.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/ReplaceTokens.html
+END
+StripLineBreaks.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/StripLineBreaks.html
+END
+ClassConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/ClassConstants.html
+END
+FixCrLfFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/FixCrLfFilter.html
+END
+LineContains.Contains.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/LineContains.Contains.html
+END
+EscapeUnicode.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/EscapeUnicode.html
+END
+HeadFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/HeadFilter.html
+END
+StripJavaComments.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/StripJavaComments.html
+END
+ConcatFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/ConcatFilter.html
+END
+ReplaceTokens.Token.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/ReplaceTokens.Token.html
+END
+StripLineComments.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/StripLineComments.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/package-frame.html
+END
+TokenFilter.ChainableReaderFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.ChainableReaderFilter.html
+END
+BaseParamFilterReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/BaseParamFilterReader.html
+END
+LineContains.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/LineContains.html
+END
+TokenFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/package-summary.html
+END
+FixCrLfFilter.CrLf.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/FixCrLfFilter.CrLf.html
+END
+ExpandProperties.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/ExpandProperties.html
+END
+TokenFilter.ContainsRegex.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.ContainsRegex.html
+END
+TokenFilter.FileTokenizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.FileTokenizer.html
+END
+TailFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TailFilter.html
+END
+TokenFilter.Trim.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.Trim.html
+END
+LineContainsRegExp.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/LineContainsRegExp.html
+END
+StringInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/StringInputStream.html
+END
+BaseFilterReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/BaseFilterReader.html
+END
+TokenFilter.Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/filters/TokenFilter.Filter.html
+END

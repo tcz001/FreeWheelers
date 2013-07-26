@@ -1,0 +1,5 @@
+.idea/*
+bin
+bin-idea
+.DS_Store
+cobertura.ser

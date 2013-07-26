@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repo/twu32proj4/!svn/ver/278/trunk/lib/main
+END
+jetty-util-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/jetty-util-8.1.9.v20130131.jar
+END
+hibernate-annotations-3.5.6-Final-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/twu32proj4/!svn/ver/273/trunk/lib/main/hibernate-annotations-3.5.6-Final-jar.jar
+END
+org.apache.jasper.glassfish-2.2.2.v201112011158.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/org.apache.jasper.glassfish-2.2.2.v201112011158.jar
+END
+jetty-http-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/jetty-http-8.1.9.v20130131.jar
+END
+spring-beans-3.2.2.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/spring-beans-3.2.2.RELEASE.jar
+END
+slf4j-log4j12-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/278/trunk/lib/main/slf4j-log4j12-1.7.5.jar
+END
+spring-tx-3.2.2.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/spring-tx-3.2.2.RELEASE.jar
+END
+aopalliance-1.0-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/aopalliance-1.0-jar.jar
+END
+testng-6.8.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/testng-6.8.5.jar
+END
+spring-security-taglibs-3.1.3.RELEASE-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/twu32proj4/!svn/ver/120/trunk/lib/main/spring-security-taglibs-3.1.3.RELEASE-jar.jar
+END
+jta-1.1-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/jta-1.1-jar.jar
+END
+hibernate-validator-4.2.0.Final-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/twu32proj4/!svn/ver/273/trunk/lib/main/hibernate-validator-4.2.0.Final-jar.jar
+END
+org.eclipse.jdt.core-3.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/org.eclipse.jdt.core-3.7.1.jar
+END
+spring-expression-3.1.0.RELEASE-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/twu32proj4/!svn/ver/120/trunk/lib/main/spring-expression-3.1.0.RELEASE-jar.jar
+END
+jetty-xml-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/jetty-xml-8.1.9.v20130131.jar
+END
+spring-webmvc-portlet-3.2.2.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/spring-webmvc-portlet-3.2.2.RELEASE.jar
+END
+javax.servlet.jsp.jstl-1.2.0.v201105211821.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar
+END
+hamcrest-core-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/hamcrest-core-1.3.jar
+END
+validation-api-1.0.0.GA-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/120/trunk/lib/main/validation-api-1.0.0.GA-jar.jar
+END
+jetty-server-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/jetty-server-8.1.9.v20130131.jar
+END
+spring-security-acl-3.1.3.RELEASE-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/twu32proj4/!svn/ver/120/trunk/lib/main/spring-security-acl-3.1.3.RELEASE-jar.jar
+END
+hibernate-core-3.5.6-Final-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/twu32proj4/!svn/ver/273/trunk/lib/main/hibernate-core-3.5.6-Final-jar.jar
+END
+javax.el-2.2.0.v201108011116.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/javax.el-2.2.0.v201108011116.jar
+END
+xmlunit-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/xmlunit-1.4.jar
+END
+jetty-continuation-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/jetty-continuation-8.1.9.v20130131.jar
+END
+persistence-api-1.0-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/120/trunk/lib/main/persistence-api-1.0-jar.jar
+END
+antlr-2.7.6-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/antlr-2.7.6-jar.jar
+END
+log4j-1.2.17.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repo/twu32proj4/!svn/ver/278/trunk/lib/main/log4j-1.2.17.jar
+END
+spring-security-config-3.1.3.RELEASE-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/twu32proj4/!svn/ver/120/trunk/lib/main/spring-security-config-3.1.3.RELEASE-jar.jar
+END
+hibernate-commons-annotations-3.2.0.Final-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/twu32proj4/!svn/ver/273/trunk/lib/main/hibernate-commons-annotations-3.2.0.Final-jar.jar
+END
+jetty-webapp-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/jetty-webapp-8.1.9.v20130131.jar
+END
+commons-logging-1.1.1-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/commons-logging-1.1.1-jar.jar
+END
+slf4j-api-1.6.2-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/slf4j-api-1.6.2-jar.jar
+END
+aspectjweaver-1.7.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/aspectjweaver-1.7.2.jar
+END
+org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar
+END
+mybatis-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repo/twu32proj4/!svn/ver/176/trunk/lib/main/mybatis-3.2.1.jar
+END
+spring-core-3.2.2.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/spring-core-3.2.2.RELEASE.jar
+END
+com.sun.el-2.2.0.v201108011116.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/com.sun.el-2.2.0.v201108011116.jar
+END
+hibernate-jpa-2.0-api-1.0.1.Final-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/twu32proj4/!svn/ver/273/trunk/lib/main/hibernate-jpa-2.0-api-1.0.1.Final-jar.jar
+END
+jetty-servlet-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/jetty-servlet-8.1.9.v20130131.jar
+END
+spring-security-web-3.1.3.RELEASE-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/twu32proj4/!svn/ver/120/trunk/lib/main/spring-security-web-3.1.3.RELEASE-jar.jar
+END
+spring-orm-3.2.2.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/spring-orm-3.2.2.RELEASE.jar
+END
+postgresql-9.1-901.jdbc4-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/postgresql-9.1-901.jdbc4-jar.jar
+END
+javax.servlet.jsp-2.2.0.v201112011158.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/javax.servlet.jsp-2.2.0.v201112011158.jar
+END
+spring-jdbc-3.2.2.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/spring-jdbc-3.2.2.RELEASE.jar
+END
+spring-context-support-3.1.0.RELEASE-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/twu32proj4/!svn/ver/120/trunk/lib/main/spring-context-support-3.1.0.RELEASE-jar.jar
+END
+javassist-3.11.0.GA-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/javassist-3.11.0.GA-jar.jar
+END
+spring-security-core-3.1.3.RELEASE-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/twu32proj4/!svn/ver/120/trunk/lib/main/spring-security-core-3.1.3.RELEASE-jar.jar
+END
+dom4j-1.6.1-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/dom4j-1.6.1-jar.jar
+END
+servlet-api-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/servlet-api-3.0.jar
+END
+spring-web-3.2.2.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/spring-web-3.2.2.RELEASE.jar
+END
+jetty-security-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/jetty-security-8.1.9.v20130131.jar
+END
+jetty-io-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/jetty-io-8.1.9.v20130131.jar
+END
+spring-aop-3.2.2.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/274/trunk/lib/main/spring-aop-3.2.2.RELEASE.jar
+END
+commons-collections-3.2.1-jar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/twu32proj4/!svn/ver/122/trunk/lib/main/commons-collections-3.2.1-jar.jar
+END
+spring-webmvc-3.2.2.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/spring-webmvc-3.2.2.RELEASE.jar
+END
+spring-context-3.2.2.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/249/trunk/lib/main/spring-context-3.2.2.RELEASE.jar
+END

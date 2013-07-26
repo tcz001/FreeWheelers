@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition
+END
+HasMethod.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/HasMethod.html
+END
+TypeFound.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/TypeFound.html
+END
+FilesMatch.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/FilesMatch.html
+END
+Or.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/Or.html
+END
+ConditionBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/ConditionBase.html
+END
+IsFailure.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/IsFailure.html
+END
+Matches.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/Matches.html
+END
+IsFileSelected.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/IsFileSelected.html
+END
+ResourceContains.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/ResourceContains.html
+END
+Condition.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/Condition.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/package-tree.html
+END
+IsReference.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/IsReference.html
+END
+Equals.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/Equals.html
+END
+IsLastModified.CompareMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/IsLastModified.CompareMode.html
+END
+IsLastModified.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/IsLastModified.html
+END
+IsReachable.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/IsReachable.html
+END
+IsSigned.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/IsSigned.html
+END
+IsTrue.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/IsTrue.html
+END
+ParserSupports.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/ParserSupports.html
+END
+Contains.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/Contains.html
+END
+Http.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/Http.html
+END
+Os.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/Os.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/package-frame.html
+END
+IsFalse.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/IsFalse.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/package-summary.html
+END
+ResourcesMatch.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/ResourcesMatch.html
+END
+ResourceExists.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/ResourceExists.html
+END
+IsSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/IsSet.html
+END
+Socket.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/Socket.html
+END
+AntVersion.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/AntVersion.html
+END
+HasFreeSpace.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/HasFreeSpace.html
+END
+Not.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/Not.html
+END
+And.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/And.html
+END
+Xor.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/condition/Xor.html
+END

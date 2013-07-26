@@ -1,0 +1,31 @@
+tech stack ========== * java 7 __needs to be installed__ * firefox __needs to be installed__
+
+
+
+* postgres __needs to be installed__
+* spring mvc - checked in in lib folder
+* mybatis - checked in in lib folder
+* ant - build tool, can be found in the tools folder
+* junit4 - checked in in lib folder
+* selenium - checked in in lib folder
+
+get started
+===========
+1. Check the database configuration in the following files:
+	* src/main/webapp/WEB-INF/spring/persistence-config.xml
+
+2. Start postgres server
+    * create database trailblazers ,see persistance-config.xml
+      run "db/create.sh"
+    * to add some data
+      run "psql -h localhost -U postgres --password -d trailblazers < db/backup.sql"
+
+3. Check out existing tasks
+    * ./tools/ant/bin/ant -p
+
+4. Start the server
+	* ./tools/ant/bin/ant start
+	* go to http://localhost:8080/
+
+
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/sos
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/sos/package-frame.html
+END
+SOS.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/sos/SOS.html
+END
+SOSGet.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/sos/SOSGet.html
+END
+SOSLabel.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/sos/SOSLabel.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/sos/package-summary.html
+END
+SOSCmd.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/sos/SOSCmd.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/sos/package-tree.html
+END
+SOSCheckin.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/sos/SOSCheckin.html
+END
+SOSCheckout.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/sos/SOSCheckout.html
+END

@@ -1,0 +1,941 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks
+END
+gunzip.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/gunzip.html
+END
+defaultexcludes.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/defaultexcludes.html
+END
+unpack.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/unpack.html
+END
+propertyfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/propertyfile.html
+END
+common.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/common.html
+END
+ftp.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/ftp.html
+END
+chmod.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/chmod.html
+END
+translate.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/translate.html
+END
+input.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/input.html
+END
+style.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/style.html
+END
+delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/delete.html
+END
+perforce.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/perforce.html
+END
+jlink.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/jlink.html
+END
+ear.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/ear.html
+END
+sleep.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/sleep.html
+END
+tstamp.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/tstamp.html
+END
+jdepend.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/jdepend.html
+END
+conditions.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/conditions.html
+END
+copyfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/copyfile.html
+END
+import.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/import.html
+END
+dependset.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/dependset.html
+END
+pack.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/pack.html
+END
+chown.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/chown.html
+END
+antcall.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/antcall.html
+END
+echo.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/echo.html
+END
+loadfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/loadfile.html
+END
+dirname.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/dirname.html
+END
+get.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/get.html
+END
+java.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/java.html
+END
+componentdef.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/componentdef.html
+END
+include.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/include.html
+END
+apt.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/apt.html
+END
+filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/filter.html
+END
+renameextensions.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/renameextensions.html
+END
+rmic.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/rmic.html
+END
+telnet.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/telnet.html
+END
+setproxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/setproxy.html
+END
+typedef.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/typedef.html
+END
+antstructure.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/antstructure.html
+END
+basename.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/basename.html
+END
+fail.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/fail.html
+END
+image-classdiagram.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/image-classdiagram.gif
+END
+vss.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/vss.html
+END
+waitfor.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/waitfor.html
+END
+jarlib-resolve.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/jarlib-resolve.html
+END
+native2ascii.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/native2ascii.html
+END
+jarlib-available.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/jarlib-available.html
+END
+mail.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/mail.html
+END
+deltree.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/deltree.html
+END
+cab.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/cab.html
+END
+uptodate.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/uptodate.html
+END
+tar.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/tar.html
+END
+BorlandGenerateClient.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/BorlandGenerateClient.html
+END
+subant.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/subant.html
+END
+pvcstask.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/pvcstask.html
+END
+patch.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/patch.html
+END
+echoxml.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/echoxml.html
+END
+makeurl.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/makeurl.html
+END
+augment.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/augment.html
+END
+zip.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/zip.html
+END
+projecthelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/projecthelper.html
+END
+manifestclasspath.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/manifestclasspath.html
+END
+nice.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/nice.html
+END
+genkey.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/genkey.html
+END
+jjtree.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/jjtree.html
+END
+apply.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/apply.html
+END
+sound.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/sound.html
+END
+junit.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/junit.html
+END
+jjdoc.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/jjdoc.html
+END
+signjar.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/signjar.html
+END
+pathconvert.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/pathconvert.html
+END
+fixcrlf.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/fixcrlf.html
+END
+resourcecount.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/resourcecount.html
+END
+checksum.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/checksum.html
+END
+xmlproperty.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/xmlproperty.html
+END
+rexec.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/rexec.html
+END
+manifest.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/manifest.html
+END
+concat.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/concat.html
+END
+jar.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/jar.html
+END
+sync.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/sync.html
+END
+antlr.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/antlr.html
+END
+presetdef.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/presetdef.html
+END
+taskdef.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/taskdef.html
+END
+cvspass.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/cvspass.html
+END
+serverdeploy.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/serverdeploy.html
+END
+attrib.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/attrib.html
+END
+loadresource.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/loadresource.html
+END
+javacc.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/javacc.html
+END
+parallel.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/parallel.html
+END
+loadproperties.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/loadproperties.html
+END
+sshsession.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/sshsession.html
+END
+chgrp.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/chgrp.html
+END
+sos.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/sos.html
+END
+script.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/script.html
+END
+retry.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/retry.html
+END
+bindtargets.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/bindtargets.html
+END
+buildnumber.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/buildnumber.html
+END
+sequential.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/sequential.html
+END
+schemavalidate.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/schemavalidate.html
+END
+whichresource.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/whichresource.html
+END
+replace.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/replace.html
+END
+macrodef.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/macrodef.html
+END
+clearcase.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/clearcase.html
+END
+ant.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/ant.html
+END
+scriptdef.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/scriptdef.html
+END
+javac.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/javac.html
+END
+scp.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/scp.html
+END
+truncate.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/truncate.html
+END
+replaceregexp.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/replaceregexp.html
+END
+mimemail.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/mimemail.html
+END
+rpm.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/rpm.html
+END
+jspc.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/jspc.html
+END
+sql.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/sql.html
+END
+ccm.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/ccm.html
+END
+mkdir.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/mkdir.html
+END
+jarlib-display.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/jarlib-display.html
+END
+javadoc.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/javadoc.html
+END
+BorlandEJBTasks.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/BorlandEJBTasks.html
+END
+gzip.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/gzip.html
+END
+available.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/available.html
+END
+length.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/length.html
+END
+touch.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/touch.html
+END
+propertyhelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/propertyhelper.html
+END
+exec.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/exec.html
+END
+junitreport.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/junitreport.html
+END
+symlink.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/symlink.html
+END
+javah.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/javah.html
+END
+untar.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/untar.html
+END
+cvs.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/cvs.html
+END
+ejb.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/ejb.html
+END
+wljspc.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/wljspc.html
+END
+recorder.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/recorder.html
+END
+unzip.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/unzip.html
+END
+rename.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/rename.html
+END
+jarlib-manifest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/jarlib-manifest.html
+END
+diagnostics.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/diagnostics.html
+END
+copydir.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/copydir.html
+END
+xmlvalidate.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/xmlvalidate.html
+END
+cvstagdiff.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/cvstagdiff.html
+END
+image.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/image.html
+END
+property.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/property.html
+END
+condition.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/condition.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/changelog.html
+END
+antversion.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/antversion.html
+END
+hostinfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/hostinfo.html
+END
+war.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/war.html
+END
+splash.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/splash.html
+END
+local.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/local.html
+END
+echoproperties.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/echoproperties.html
+END
+depend.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/depend.html
+END
+netrexxc.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/netrexxc.html
+END
+cvsversion.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/cvsversion.html
+END
+sshexec.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/sshexec.html
+END
+tempfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/tempfile.html
+END
+move.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/move.html
+END
+copy.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/Tasks/copy.html
+END

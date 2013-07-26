@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types
+END
+RedirectorElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/RedirectorElement.html
+END
+FilterSetCollection.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/FilterSetCollection.html
+END
+ResourceLocation.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/ResourceLocation.html
+END
+Description.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Description.html
+END
+FilterSet.Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/FilterSet.Filter.html
+END
+PropertySet.BuiltinPropertySetName.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/PropertySet.BuiltinPropertySetName.html
+END
+Assertions.DisabledAssertion.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Assertions.DisabledAssertion.html
+END
+PatternSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/PatternSet.html
+END
+Assertions.BaseAssertion.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Assertions.BaseAssertion.html
+END
+FileSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/FileSet.html
+END
+Path.PathElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Path.PathElement.html
+END
+ResourceCollection.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/ResourceCollection.html
+END
+FilterSet.FiltersFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/FilterSet.FiltersFile.html
+END
+Assertions.EnabledAssertion.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Assertions.EnabledAssertion.html
+END
+Permissions.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Permissions.html
+END
+DataType.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/DataType.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/package-frame.html
+END
+Assertions.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Assertions.html
+END
+Reference.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Reference.html
+END
+PropertySet.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/PropertySet.html
+END
+Permissions.Permission.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Permissions.Permission.html
+END
+Commandline.Marker.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Commandline.Marker.html
+END
+FilterSet.OnMissing.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/FilterSet.OnMissing.html
+END
+Quantifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Quantifier.html
+END
+FileList.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/FileList.html
+END
+Substitution.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Substitution.html
+END
+FlexInteger.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/FlexInteger.html
+END
+Parameter.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Parameter.html
+END
+Mapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Mapper.html
+END
+Commandline.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Commandline.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/package-tree.html
+END
+CommandlineJava.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/CommandlineJava.html
+END
+DirSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/DirSet.html
+END
+XMLCatalog.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/XMLCatalog.html
+END
+ArchiveScanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/ArchiveScanner.html
+END
+ArchiveFileSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/ArchiveFileSet.html
+END
+TarScanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/TarScanner.html
+END
+FilterSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/FilterSet.html
+END
+TarFileSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/TarFileSet.html
+END
+Environment.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Environment.html
+END
+Parameterizable.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Parameterizable.html
+END
+Commandline.Argument.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Commandline.Argument.html
+END
+Comparison.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Comparison.html
+END
+ZipScanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/ZipScanner.html
+END
+EnumeratedAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/EnumeratedAttribute.html
+END
+ZipFileSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/ZipFileSet.html
+END
+ResourceFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/ResourceFactory.html
+END
+AbstractFileSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/AbstractFileSet.html
+END
+PropertySet.PropertyRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/PropertySet.PropertyRef.html
+END
+RegularExpression.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/RegularExpression.html
+END
+CommandlineJava.SysProperties.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/CommandlineJava.SysProperties.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/package-summary.html
+END
+Resource.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Resource.html
+END
+Environment.Variable.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Environment.Variable.html
+END
+FilterChain.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/FilterChain.html
+END
+TimeComparison.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/TimeComparison.html
+END
+PatternSet.NameEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/PatternSet.NameEntry.html
+END
+FileList.FileName.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/FileList.FileName.html
+END
+Path.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Path.html
+END
+DTDLocation.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/DTDLocation.html
+END
+LogLevel.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/LogLevel.html
+END
+Mapper.MapperType.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/Mapper.MapperType.html
+END
+AntFilterReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/AntFilterReader.html
+END

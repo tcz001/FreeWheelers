@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic
+END
+XNewRmic.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/XNewRmic.html
+END
+WLRmic.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/WLRmic.html
+END
+DefaultRmicAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/DefaultRmicAdapter.html
+END
+ForkingSunRmic.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/ForkingSunRmic.html
+END
+SunRmic.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/SunRmic.html
+END
+RmicAdapterFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/RmicAdapterFactory.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/package-summary.html
+END
+KaffeRmic.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/KaffeRmic.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/package-tree.html
+END
+RmicAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/rmic/RmicAdapter.html
+END

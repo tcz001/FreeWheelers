@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repo/twu32proj4/!svn/ver/284/trunk/scripts
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repo/twu32proj4/!svn/ver/152/trunk/scripts/install.sh
+END
+stop-server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repo/twu32proj4/!svn/ver/144/trunk/scripts/stop-server.sh
+END
+start-server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repo/twu32proj4/!svn/ver/284/trunk/scripts/start-server.sh
+END

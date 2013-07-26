@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/twu32proj4/!svn/ver/267/trunk/src/main/java/com/trailblazers/freewheelers/model
+END
+OrderStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/twu32proj4/!svn/ver/219/trunk/src/main/java/com/trailblazers/freewheelers/model/OrderStatus.java
+END
+ItemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/twu32proj4/!svn/ver/267/trunk/src/main/java/com/trailblazers/freewheelers/model/ItemType.java
+END
+AccountValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/258/trunk/src/main/java/com/trailblazers/freewheelers/model/AccountValidation.java
+END
+ReserveOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/258/trunk/src/main/java/com/trailblazers/freewheelers/model/ReserveOrder.java
+END
+ItemValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/267/trunk/src/main/java/com/trailblazers/freewheelers/model/ItemValidation.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/twu32proj4/!svn/ver/258/trunk/src/main/java/com/trailblazers/freewheelers/model/Account.java
+END
+AccountRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/twu32proj4/!svn/ver/258/trunk/src/main/java/com/trailblazers/freewheelers/model/AccountRole.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/twu32proj4/!svn/ver/267/trunk/src/main/java/com/trailblazers/freewheelers/model/Item.java
+END

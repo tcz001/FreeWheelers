@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repo/twu32proj4/!svn/ver/216/trunk/db
+END
+baseline.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repo/twu32proj4/!svn/ver/161/trunk/db/baseline.sql
+END
+backup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repo/twu32proj4/!svn/ver/216/trunk/db/backup.sql
+END
+create.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repo/twu32proj4/!svn/ver/113/trunk/db/create.sh
+END

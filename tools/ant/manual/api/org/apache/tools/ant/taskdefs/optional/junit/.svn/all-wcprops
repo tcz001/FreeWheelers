@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit
+END
+JUnitTask.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.html
+END
+Constants.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/Constants.html
+END
+JUnitTaskMirror.JUnitResultFormatterMirror.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTaskMirror.JUnitResultFormatterMirror.html
+END
+FormatterElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/FormatterElement.html
+END
+DOMUtil.NodeListImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/DOMUtil.NodeListImpl.html
+END
+JUnit4TestMethodAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnit4TestMethodAdapter.html
+END
+JUnitTask.JUnitLogStreamHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.JUnitLogStreamHandler.html
+END
+FormatterElement.TypeAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/FormatterElement.TypeAttribute.html
+END
+JUnitTestRunner.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTestRunner.html
+END
+JUnitTask.TestResultHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.TestResultHolder.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/package-tree.html
+END
+JUnitTaskMirrorImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTaskMirrorImpl.html
+END
+FailureRecorder.TestInfos.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/FailureRecorder.TestInfos.html
+END
+SummaryJUnitResultFormatter.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/SummaryJUnitResultFormatter.html
+END
+OutErrSummaryJUnitResultFormatter.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/OutErrSummaryJUnitResultFormatter.html
+END
+XMLConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/XMLConstants.html
+END
+XMLJUnitResultFormatter.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/XMLJUnitResultFormatter.html
+END
+JUnitTask.JUnitLogOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.JUnitLogOutputStream.html
+END
+JUnitTaskMirror.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTaskMirror.html
+END
+DOMUtil.NodeFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/DOMUtil.NodeFilter.html
+END
+AggregateTransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/AggregateTransformer.html
+END
+Enumerations.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/Enumerations.html
+END
+JUnitResultFormatter.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitResultFormatter.html
+END
+DOMUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/DOMUtil.html
+END
+FailureRecorder.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/FailureRecorder.html
+END
+JUnitTask.ForkMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.ForkMode.html
+END
+BatchTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/BatchTest.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/package-frame.html
+END
+JUnitTaskMirror.JUnitTestRunnerMirror.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTaskMirror.JUnitTestRunnerMirror.html
+END
+BriefJUnitResultFormatter.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/BriefJUnitResultFormatter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/package-summary.html
+END
+JUnitTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTest.html
+END
+JUnitTaskMirror.SummaryJUnitResultFormatterMirror.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTaskMirror.SummaryJUnitResultFormatterMirror.html
+END
+JUnitTask.SummaryAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.SummaryAttribute.html
+END
+JUnitVersionHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/JUnitVersionHelper.html
+END
+PlainJUnitResultFormatter.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/PlainJUnitResultFormatter.html
+END
+AggregateTransformer.Format.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/AggregateTransformer.Format.html
+END
+XMLResultAggregator.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/XMLResultAggregator.html
+END
+TearDownOnVmCrash.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/TearDownOnVmCrash.html
+END
+BaseTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/junit/BaseTest.html
+END

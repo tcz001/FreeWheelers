@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/twu32proj4/!svn/ver/300/trunk/src/test/java/functional/com/trailblazers/freewheelers
+END
+UserJourneyBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/242/trunk/src/test/java/functional/com/trailblazers/freewheelers/UserJourneyBase.java
+END
+ManageItemsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/258/trunk/src/test/java/functional/com/trailblazers/freewheelers/ManageItemsTest.java
+END
+HumansTxtTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/300/trunk/src/test/java/functional/com/trailblazers/freewheelers/HumansTxtTest.java
+END
+OrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/258/trunk/src/test/java/functional/com/trailblazers/freewheelers/OrderTest.java
+END
+AccountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/twu32proj4/!svn/ver/258/trunk/src/test/java/functional/com/trailblazers/freewheelers/AccountTest.java
+END

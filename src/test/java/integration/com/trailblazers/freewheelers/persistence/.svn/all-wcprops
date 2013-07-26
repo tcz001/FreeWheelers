@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/267/trunk/src/test/java/integration/com/trailblazers/freewheelers/persistence
+END
+MapperTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/twu32proj4/!svn/ver/226/trunk/src/test/java/integration/com/trailblazers/freewheelers/persistence/MapperTestBase.java
+END
+AccountMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/twu32proj4/!svn/ver/208/trunk/src/test/java/integration/com/trailblazers/freewheelers/persistence/AccountMapperTest.java
+END
+AccountRoleMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repo/twu32proj4/!svn/ver/195/trunk/src/test/java/integration/com/trailblazers/freewheelers/persistence/AccountRoleMapperTest.java
+END
+ItemMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/twu32proj4/!svn/ver/267/trunk/src/test/java/integration/com/trailblazers/freewheelers/persistence/ItemMapperTest.java
+END
+ReserveOrderMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repo/twu32proj4/!svn/ver/258/trunk/src/test/java/integration/com/trailblazers/freewheelers/persistence/ReserveOrderMapperTest.java
+END

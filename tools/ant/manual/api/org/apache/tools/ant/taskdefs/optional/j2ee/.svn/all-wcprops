@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/j2ee
+END
+AbstractHotDeploymentTool.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/j2ee/AbstractHotDeploymentTool.html
+END
+ServerDeploy.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/j2ee/ServerDeploy.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/j2ee/package-frame.html
+END
+JonasHotDeploymentTool.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/j2ee/JonasHotDeploymentTool.html
+END
+WebLogicHotDeploymentTool.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/j2ee/WebLogicHotDeploymentTool.html
+END
+GenericHotDeploymentTool.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/j2ee/GenericHotDeploymentTool.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/j2ee/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/j2ee/package-tree.html
+END
+HotDeploymentTool.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/j2ee/HotDeploymentTool.html
+END

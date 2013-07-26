@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/twu32proj4/!svn/ver/234/trunk/src/main/java/com/trailblazers/freewheelers/mappers
+END
+AccountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/twu32proj4/!svn/ver/204/trunk/src/main/java/com/trailblazers/freewheelers/mappers/AccountMapper.java
+END
+AccountRoleMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/189/trunk/src/main/java/com/trailblazers/freewheelers/mappers/AccountRoleMapper.java
+END
+ItemMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/234/trunk/src/main/java/com/trailblazers/freewheelers/mappers/ItemMapper.java
+END
+MyBatisUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/226/trunk/src/main/java/com/trailblazers/freewheelers/mappers/MyBatisUtil.java
+END
+ReserveOrderMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/224/trunk/src/main/java/com/trailblazers/freewheelers/mappers/ReserveOrderMapper.java
+END

@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources
+END
+ContentTransformingResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/ContentTransformingResource.html
+END
+SizeLimitCollection.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/SizeLimitCollection.html
+END
+First.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/First.html
+END
+Sort.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Sort.html
+END
+AbstractResourceCollectionWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/AbstractResourceCollectionWrapper.html
+END
+Union.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Union.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/package-tree.html
+END
+MappedResourceCollection.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/MappedResourceCollection.html
+END
+FileProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/FileProvider.html
+END
+TarResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/TarResource.html
+END
+BaseResourceCollectionWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/BaseResourceCollectionWrapper.html
+END
+Restrict.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Restrict.html
+END
+BCFileSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/BCFileSet.html
+END
+BaseResourceCollectionContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/BaseResourceCollectionContainer.html
+END
+Files.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Files.html
+END
+JavaConstantResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/JavaConstantResource.html
+END
+Tokens.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Tokens.html
+END
+LazyResourceCollectionWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/LazyResourceCollectionWrapper.html
+END
+Archives.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Archives.html
+END
+Touchable.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Touchable.html
+END
+LogOutputResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/LogOutputResource.html
+END
+ZipResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/ZipResource.html
+END
+CompressedResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/CompressedResource.html
+END
+URLProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/URLProvider.html
+END
+MappedResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/MappedResource.html
+END
+AbstractClasspathResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/AbstractClasspathResource.html
+END
+StringResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/StringResource.html
+END
+GZipResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/GZipResource.html
+END
+ResourceList.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/ResourceList.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/package-summary.html
+END
+FileResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/FileResource.html
+END
+JavaResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/JavaResource.html
+END
+ArchiveResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/ArchiveResource.html
+END
+ResourceDecorator.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/ResourceDecorator.html
+END
+Difference.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Difference.html
+END
+Appendable.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Appendable.html
+END
+PropertyResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/PropertyResource.html
+END
+BZip2Resource.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/BZip2Resource.html
+END
+AbstractClasspathResource.ClassLoaderWithFlag.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/AbstractClasspathResource.ClassLoaderWithFlag.html
+END
+Intersect.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Intersect.html
+END
+FileResourceIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/FileResourceIterator.html
+END
+Last.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Last.html
+END
+ImmutableResourceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/ImmutableResourceException.html
+END
+Resources.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/Resources.html
+END
+URLResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/types/resources/URLResource.html
+END

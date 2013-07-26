@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/etc/checkstyle
+END
+checkstyle-text.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/etc/checkstyle/checkstyle-text.xsl
+END
+checkstyle-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/etc/checkstyle/checkstyle-frames.xsl
+END
+checkstyle-xdoc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/etc/checkstyle/checkstyle-xdoc.xsl
+END

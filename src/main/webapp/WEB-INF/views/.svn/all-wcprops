@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repo/twu32proj4/!svn/ver/287/trunk/src/main/webapp/WEB-INF/views
+END
+admin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/admin.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/header.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/home.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/login.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/logout.jsp
+END
+accessDenied.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/twu32proj4/!svn/ver/287/trunk/src/main/webapp/WEB-INF/views/accessDenied.jsp
+END
+itemList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/itemList.jsp
+END
+reserve.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/reserve.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/twu32proj4/!svn/ver/167/trunk/src/main/webapp/WEB-INF/views/footer.jsp
+END
+userProfile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/twu32proj4/!svn/ver/286/trunk/src/main/webapp/WEB-INF/views/userProfile.jsp
+END

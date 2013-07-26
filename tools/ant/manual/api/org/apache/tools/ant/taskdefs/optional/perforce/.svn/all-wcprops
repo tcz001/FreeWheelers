@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce
+END
+SimpleP4OutputHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/SimpleP4OutputHandler.html
+END
+P4Base.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Base.html
+END
+P4Submit.P4SubmitAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Submit.P4SubmitAdapter.html
+END
+P4OutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4OutputStream.html
+END
+P4Labelsync.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Labelsync.html
+END
+P4Sync.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Sync.html
+END
+P4Handler.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Handler.html
+END
+P4HandlerAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4HandlerAdapter.html
+END
+P4Label.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Label.html
+END
+P4Counter.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Counter.html
+END
+P4Resolve.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Resolve.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/package-frame.html
+END
+P4Fstat.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Fstat.html
+END
+P4Integrate.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Integrate.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/package-summary.html
+END
+P4Have.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Have.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/package-tree.html
+END
+P4Edit.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Edit.html
+END
+P4Change.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Change.html
+END
+P4Reopen.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Reopen.html
+END
+P4Add.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Add.html
+END
+P4OutputHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4OutputHandler.html
+END
+P4Delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Delete.html
+END
+P4Submit.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Submit.html
+END
+P4Revert.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/twu32proj4/!svn/ver/132/trunk/tools/ant/manual/api/org/apache/tools/ant/taskdefs/optional/perforce/P4Revert.html
+END

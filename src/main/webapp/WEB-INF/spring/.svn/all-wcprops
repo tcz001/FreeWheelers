@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo/twu32proj4/!svn/ver/229/trunk/src/main/webapp/WEB-INF/spring
+END
+app-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/twu32proj4/!svn/ver/123/trunk/src/main/webapp/WEB-INF/spring/app-config.xml
+END
+persistence-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/twu32proj4/!svn/ver/229/trunk/src/main/webapp/WEB-INF/spring/persistence-config.xml
+END
+security-app-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/twu32proj4/!svn/ver/204/trunk/src/main/webapp/WEB-INF/spring/security-app-context.xml
+END
+mvc-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/twu32proj4/!svn/ver/165/trunk/src/main/webapp/WEB-INF/spring/mvc-config.xml
+END
