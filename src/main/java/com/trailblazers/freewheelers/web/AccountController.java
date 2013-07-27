@@ -1,6 +1,7 @@
 package com.trailblazers.freewheelers.web;
 
 import com.trailblazers.freewheelers.model.Account;
+import com.trailblazers.freewheelers.model.Address;
 import com.trailblazers.freewheelers.service.AccountService;
 import com.trailblazers.freewheelers.service.ServiceResult;
 import com.trailblazers.freewheelers.service.impl.AccountServiceImpl;
@@ -36,6 +37,22 @@ public class AccountController {
         String password = request.getParameter("password");
         String name = request.getParameter("name");
         String phoneNumber = request.getParameter("phoneNumber");
+        String street1 = request.getParameter("street1");
+        String street2 = request.getParameter("street2");
+        String city = request.getParameter("city");
+        String state = request.getParameter("state");
+        String country = request.getParameter("country");
+        String zipCode = request.getParameter("zipCode");
+
+
+        Address address = new Address()
+                .setStreet1(street1)
+                .setStreet2(street2)
+                .setCity(city)
+                .setState(state)
+                .setCountry(country)
+                .setZipCode(zipCode);
+
 
         Account account = new Account()
                 .setEmail_address(email)
@@ -45,7 +62,7 @@ public class AccountController {
                 .setEnabled(true);
 
         try {
-            ServiceResult<Account> result = accountService.createAccount(account);
+            ServiceResult<Account> result = accountService.createAccount(account, address);
 
             if (result.hasErrors()) {
                 return showErrors(result.getErrors());

@@ -1,6 +1,7 @@
 package com.trailblazers.freewheelers.service;
 
 import com.trailblazers.freewheelers.model.Account;
+import com.trailblazers.freewheelers.model.Address;
 
 import java.util.List;
 
@@ -16,5 +17,5 @@ public interface AccountService {
 
     void createAdmin(Account account);
 
-    ServiceResult<Account> createAccount(Account account);
+    ServiceResult<Account> createAccount(Account account, Address address);
 }

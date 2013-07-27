@@ -32,6 +32,18 @@ CREATE TABLE account_role
         role character varying(255) NOT NULL
 );
 
+CREATE TABLE address
+(
+      address_id SERIAL PRIMARY KEY,
+      account_id SERIAL FOREIGN KEY,
+      street1 character varying(255),
+      street2 character varying(255),
+      city character varying(255),
+      state character varying(255),
+      country character varying(255),
+      zipCode character varying(255),
+);
+
 CREATE TABLE reserve_order
 (
         order_id SERIAL PRIMARY KEY,

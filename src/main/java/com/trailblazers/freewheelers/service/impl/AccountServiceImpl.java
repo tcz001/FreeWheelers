@@ -2,10 +2,12 @@ package com.trailblazers.freewheelers.service.impl;
 
 import com.trailblazers.freewheelers.mappers.AccountMapper;
 import com.trailblazers.freewheelers.mappers.AccountRoleMapper;
+import com.trailblazers.freewheelers.mappers.AddressMapper;
+import com.trailblazers.freewheelers.mappers.MyBatisUtil;
 import com.trailblazers.freewheelers.model.Account;
 import com.trailblazers.freewheelers.model.AccountRole;
-import com.trailblazers.freewheelers.mappers.MyBatisUtil;
 import com.trailblazers.freewheelers.model.AccountValidation;
+import com.trailblazers.freewheelers.model.Address;
 import com.trailblazers.freewheelers.service.AccountService;
 import com.trailblazers.freewheelers.service.ServiceResult;
 import org.apache.ibatis.session.SqlSession;
@@ -21,6 +23,7 @@ public class AccountServiceImpl implements AccountService {
     private final AccountRoleMapper accountRoleMapper;
     private SqlSession sqlSession;
     private AccountMapper accountMapper;
+    private AddressMapper addressMapper;
 
     public AccountServiceImpl() {
         this(MyBatisUtil.getSqlSessionFactory().openSession());
@@ -29,6 +32,7 @@ public class AccountServiceImpl implements AccountService {
     public AccountServiceImpl(SqlSession sqlSession) {
         this.sqlSession= sqlSession;
         this.accountMapper = sqlSession.getMapper(AccountMapper.class);
+        this.addressMapper = sqlSession.getMapper(AddressMapper.class);
         this.accountRoleMapper = sqlSession.getMapper(AccountRoleMapper.class);
     }
 
@@ -59,11 +63,11 @@ public class AccountServiceImpl implements AccountService {
     }
 
     @Override
-    public ServiceResult<Account> createAccount(Account account) {
+    public ServiceResult<Account> createAccount(Account account, Address address) {
         HashMap errors = AccountValidation.verifyInputs(account);
 
         if(errors.isEmpty()) {
-            create(account, USER);
+            create(account, USER, addressFor(account,address));
         }
 
         return new ServiceResult(errors, account);
@@ -75,9 +79,27 @@ public class AccountServiceImpl implements AccountService {
         sqlSession.commit();
     }
 
+    private void create(Account account, String role,Address address) {
+        accountMapper.insert(account);
+        accountRoleMapper.insert(roleFor(account, role));
+        addressMapper.insert(addressFor(account,address));
+        sqlSession.commit();
+    }
+
     private AccountRole roleFor(Account account, String role) {
         return new AccountRole()
                 .setAccount_name(account.getAccount_name())
                 .setRole(role);
+    }
+
+    private Address addressFor(Account account, Address address) {
+        return new Address()
+                .setAccount_id(account.getAccount_id())
+                .setStreet1(address.getStreet1())
+                .setStreet2(address.getStreet2())
+                .setCity(address.getCity())
+                .setState(address.getState())
+                .setCountry(address.getCountry())
+                .setZipCode(address.getZipCode());
     }
 }

@@ -8,7 +8,6 @@ public class Account {
     private boolean enabled;
     private String emailAddress;
     private String phoneNumber;
-    private Address address;
 
     public Account() {
         this.account_id = 0L;
@@ -68,12 +67,4 @@ public class Account {
         return phoneNumber;
     }
 
-    public Account setAddress(Address address) {
-        this.address = address;
-        return this;
-    }
-
-    public Address getAddress() {
-        return address;
-    }
 }

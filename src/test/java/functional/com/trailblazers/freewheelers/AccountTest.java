@@ -21,13 +21,13 @@ public class AccountTest extends UserJourneyBase {
                 .shows_error_alert("login attempt was not successful");
 
         user
-                .creates_an_account(jan, SOME_EMAIL, SOME_PASSWORD, EMPTY_PASSWORD);
+                .creates_an_account(jan, SOME_EMAIL, SOME_PASSWORD, EMPTY_PASSWORD, null);
 
         screen
                 .shows_error_alert("There were errors");
 
         user
-                .creates_an_account(jan, SOME_EMAIL, SOME_PASSWORD, SOME_PHONE_NUMBER);
+                .creates_an_account(jan, SOME_EMAIL, SOME_PASSWORD, SOME_PHONE_NUMBER, null);
 
         screen
                 .shows_message("account has been created");
@@ -44,9 +44,11 @@ public class AccountTest extends UserJourneyBase {
     public void testAccessRights() throws Exception {
         String Hugo = "Hugo Huser";
         String Arno = "Arno Admin";
+        String city = "London";
+        String country = "UK";
 
         admin
-                .there_is_a_user(Hugo, SOME_PASSWORD)
+                .there_is_a_user(Hugo, SOME_PASSWORD, city, country)
                 .there_is_an_admin(Arno, SOME_PASSWORD);
 
         user

@@ -12,10 +12,12 @@ public class OrderTest extends UserJourneyBase {
         String Arno = "Arno Admin";
         String Bob = "Bob Buyer";
         String Simplon_Frame = "Simplon Pavo 3 Ultra";
+        String city = "London";
+        String country = "UK";
 
         admin
                 .there_is_an_admin(Arno, SOME_PASSWORD)
-                .there_is_a_user(Bob, SOME_PASSWORD)
+                .there_is_a_user(Bob, SOME_PASSWORD, city, country)
                 .there_is_a_frame(Simplon_Frame, ONLY_ONE_LEFT);
 
         user

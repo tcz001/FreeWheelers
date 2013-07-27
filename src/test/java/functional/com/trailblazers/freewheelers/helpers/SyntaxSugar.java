@@ -18,6 +18,12 @@ public class SyntaxSugar {
     public static final String SOME_DESCRIPTION = "4 x red, curved Arrow shape, screw fastening";
     public static final String A_LOT = "1000";
 
+    public static final String SOME_STREET1 = "Street1";
+    public static final String SOME_STREET2 = "Street2";
+    public static final String SOME_STATE = "State";
+    public static final String SOME_ZIPCODE = "Zip";
+
+
 
     public static String emailFor(String userName) {
         return userName.replace(' ', '-') + "@random-email.com";

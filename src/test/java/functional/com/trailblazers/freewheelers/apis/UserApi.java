@@ -1,6 +1,9 @@
 package functional.com.trailblazers.freewheelers.apis;
 
-import functional.com.trailblazers.freewheelers.helpers.*;
+import functional.com.trailblazers.freewheelers.helpers.HomeTable;
+import functional.com.trailblazers.freewheelers.helpers.ManageItemTable;
+import functional.com.trailblazers.freewheelers.helpers.OrderTable;
+import functional.com.trailblazers.freewheelers.helpers.URLs;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -11,11 +14,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 
-import static functional.com.trailblazers.freewheelers.helpers.Controls.check;
-import static functional.com.trailblazers.freewheelers.helpers.Controls.fillField;
-import static functional.com.trailblazers.freewheelers.helpers.Controls.select;
-import static org.hamcrest.CoreMatchers.is;
-import static org.hamcrest.MatcherAssert.assertThat;
+import static functional.com.trailblazers.freewheelers.helpers.Controls.*;
 
 public class UserApi {
 
@@ -44,7 +43,7 @@ public class UserApi {
         return this;
     }
 
-    public UserApi creates_an_account(String name, String email, String password, String phoneNumber) {
+    public UserApi creates_an_account(String name, String email, String password, String phoneNumber, String city) {
         driver.get(URLs.home());
         driver.findElement(By.linkText("Create Account")).click();
 
@@ -55,6 +54,10 @@ public class UserApi {
         fillField(driver.findElement(By.id("fld_name")), name);
 
         fillField(driver.findElement(By.id("fld_phoneNumber")), phoneNumber);
+
+        fillField(driver.findElement(By.id("fld_city")),city);
+
+        select("UK",driver.findElement(By.id("sel_country")));
 
         driver.findElement(By.id("createAccount")).click();
 

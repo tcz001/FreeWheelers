@@ -1,6 +1,7 @@
 package functional.com.trailblazers.freewheelers.apis;
 
 import com.trailblazers.freewheelers.model.Account;
+import com.trailblazers.freewheelers.model.Address;
 import com.trailblazers.freewheelers.model.Item;
 import com.trailblazers.freewheelers.model.ItemType;
 import com.trailblazers.freewheelers.service.AccountService;
@@ -8,9 +9,7 @@ import com.trailblazers.freewheelers.service.ItemService;
 import com.trailblazers.freewheelers.service.impl.AccountServiceImpl;
 import com.trailblazers.freewheelers.service.impl.ItemServiceImpl;
 
-import static functional.com.trailblazers.freewheelers.helpers.SyntaxSugar.SOME_PHONE_NUMBER;
-import static functional.com.trailblazers.freewheelers.helpers.SyntaxSugar.SOME_PRICE;
-import static functional.com.trailblazers.freewheelers.helpers.SyntaxSugar.emailFor;
+import static functional.com.trailblazers.freewheelers.helpers.SyntaxSugar.*;
 
 
 public class AdminApi {
@@ -32,9 +31,10 @@ public class AdminApi {
         return this;
     }
 
-    public AdminApi there_is_a_user(String userName, String password) {
+    public AdminApi there_is_a_user(String userName, String password, String city, String country) {
         there_is_no_account_for(userName);
-        accountService.createAccount(account_for(userName, password));
+        Account account = account_for(userName,password);
+        accountService.createAccount(account,address_for(account, city, country) );
 
         return this;
     }
@@ -80,5 +80,16 @@ public class AdminApi {
                     .setEmail_address(emailFor(userName))
                     .setPhoneNumber(SOME_PHONE_NUMBER)
                     .setEnabled(true);
+    }
+
+    private Address address_for(Account account ,String city, String country) {
+        return new Address()
+                .setAccount_id(account.getAccount_id())
+                .setStreet1(SOME_STREET1)
+                .setStreet2(SOME_STREET2)
+                .setCity(city)
+                .setState(SOME_STATE)
+                .setCountry(country)
+                .setZipCode(SOME_ZIPCODE);
     }
 }
