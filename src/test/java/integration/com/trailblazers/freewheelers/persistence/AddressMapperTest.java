@@ -22,6 +22,7 @@ public class AddressMapperTest extends MapperTestBase {
     @Test
     public void shouldInsertAnAddress() throws Exception {
         Address address = new Address();
+        address.setAccount_id(1L);
 
         addressMapper.insert(address);
 

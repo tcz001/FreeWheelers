@@ -31,13 +31,13 @@ public interface AccountMapper {
 
     @Update(
         "UPDATE account " +
-        "SET account_name=#{account_name}, email_address=#{emailAddress}, phone_number=#{phoneNumber}, address=#{address}, enabled=#{enabled} " +
+        "SET account_name=#{account_name}, email_address=#{emailAddress}, phone_number=#{phoneNumber}, enabled=#{enabled} " +
         "WHERE account_id=#{account_id}"
     )
     void update(Account account);
 
     @Select(
-        "SELECT account_id, account_name, email_address, password, phone_number, address, enabled FROM account"
+        "SELECT account_id, account_name, email_address, password, phone_number, enabled FROM account"
     )
     @Results(value = {
             @Result(property="account_id"),
@@ -45,7 +45,6 @@ public interface AccountMapper {
             @Result(property="emailAddress", column="email_address"),
             @Result(property="password"),
             @Result(property="phoneNumber", column="phone_number"),
-            @Result(property="address"),
             @Result(property="enabled")
     })
     public List<Account> findAll();

@@ -28,7 +28,6 @@ public class AccountServiceImplTest {
     AccountMapper accountMapper;
     @Mock
     AccountRoleMapper accountRoleMapper;
-    //TODO : talk about mocks
     @Mock
     AddressMapper addressMapper;
 
