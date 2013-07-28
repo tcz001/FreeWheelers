@@ -47,6 +47,11 @@ public class AccountServiceImpl implements AccountService {
     }
 
     @Override
+    public Address getAddressIdByAccountId(Long id) {
+        return addressMapper.getByAccountId(id);
+    }
+
+    @Override
     public Account get(Long account_id) {
         return accountMapper.getById(account_id);
     }

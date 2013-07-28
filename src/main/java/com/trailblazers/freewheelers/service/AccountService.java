@@ -11,6 +11,8 @@ public interface AccountService {
 
     Account getAccountIdByName(String userName);
 
+    Address getAddressIdByAccountId(Long id);
+
     Account get(Long account_id);
 
     void delete(Account account);

@@ -14,9 +14,9 @@ public interface AddressMapper {
     @Options(keyProperty = "address_id", useGeneratedKeys = true)
     void insert(Address address);
     @Select(
-            "SELECT address_id,account_id,street1, street2, city, state, country, zipCode " +
+            "SELECT address_id , account_id , street1 , street2 , city , state , country , zipCode " +
                     "FROM address " +
-                    "WHERE address_id = #{address_id}"
+                    "WHERE account_id = #{account_id}"
     )
-    Address getById(Long address_id);
+    Address getByAccountId(Long account_id);
 }

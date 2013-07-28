@@ -1,8 +1,8 @@
 package com.trailblazers.freewheelers.model;
 
 public class Address {
-    private long address_id;
-    private long account_id;
+    private Long address_id;
+    private Long account_id;
     private String street1;
     private String street2;
     private String city;
@@ -12,13 +12,6 @@ public class Address {
 
     public Address() {
         this.address_id = 0L;
-//        this.account_id = 1L;
-//        this.street1 = "";
-//        this.street2 = "";
-//        this.city = "";
-//        this.state = "";
-//        this.country = "";
-//        this.zipCode = "";
     }
 
     public long getAddress_id() {

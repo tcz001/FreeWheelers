@@ -2,6 +2,7 @@ package com.trailblazers.freewheelers.web;
 
 
 import com.trailblazers.freewheelers.model.Account;
+import com.trailblazers.freewheelers.model.Address;
 import com.trailblazers.freewheelers.model.Item;
 import com.trailblazers.freewheelers.model.ReserveOrder;
 import com.trailblazers.freewheelers.service.AccountService;
@@ -27,6 +28,7 @@ import java.util.List;
 public class UserProfileController {
 
     AccountService accountService = new AccountServiceImpl();
+    AccountService addressService = new AccountServiceImpl();
     ReserveOrderService reserveOrderService = new ReserveOrderServiceImpl();
     ItemService itemService = new ItemServiceImpl();
 
@@ -39,12 +41,14 @@ public class UserProfileController {
         userName = decode(userName);
 
         Account account = accountService.getAccountIdByName(userName);
+        Address address = addressService.getAddressIdByAccountId(account.getAccount_id());
 
         List<Item> items = getItemsOrderByUser(account);
 
         ItemGrid itemGrid = new ItemGrid(items);
         model.addAttribute("itemGrid", itemGrid);
         model.addAttribute("userDetail", account);
+        model.addAttribute("address", address);
 
         return "userProfile";
     }

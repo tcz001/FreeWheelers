@@ -5,11 +5,11 @@
 <div class="page-action">Your details</div>
 <div id="user-details">
     ${userDetail.account_name} - ${userDetail.email_address}<br/>
+    ${userDetail.account_id}<br/>
 </div>
-
-<div class="page-action">Your address</div>
 <div id="address">
-    ${address.street1} - ${address.street2} - ${address.city} - ${address.state}<br/>
+    ${address.street1} - ${address.street2}<br/>
+    ${address.city} - ${address.state}<br/>
     ${address.country} - ${address.zipCode}<br/>
 </div>
 

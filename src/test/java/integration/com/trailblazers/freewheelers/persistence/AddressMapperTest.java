@@ -28,4 +28,21 @@ public class AddressMapperTest extends MapperTestBase {
 
         assertThat(address.getAddress_id(), is(not(nullValue())));
     }
+
+    @Test
+    public void shouldGetAddressByAccountId() throws Exception {
+        Address address = someAddress();
+        addressMapper.insert(address);
+
+        Address fetchedFromDB = addressMapper.getByAccountId(address.getAccount_id());
+        assertThat(fetchedFromDB.getAddress_id(), is(address.getAddress_id()));
+        assertThat(fetchedFromDB.getCountry(), is("UK"));
+        assertThat(fetchedFromDB.getAccount_id(), is(2L));
+    }
+
+    private Address someAddress() {
+        return new Address()
+                   .setAccount_id(2L)
+                   .setCountry("UK");
+    }
 }

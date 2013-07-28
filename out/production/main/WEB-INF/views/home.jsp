@@ -1,19 +1,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<c:set var="pageTitle" scope="request" value="User Profile"/>
+<c:set var="pageTitle" scope="request" value="Home"/>
 <%@ include file="header.jsp" %>
 
-<div class="page-action">Your details</div>
-<div id="user-details">
-    ${userDetail.account_name} - ${userDetail.email_address}<br/>
-</div>
-
-<div class="page-action">Your address</div>
-<div id="address">
-    ${address.street1} - ${address.street2} - ${address.city} - ${address.state}<br/>
-    ${address.country} - ${address.zipCode}<br/>
-</div>
-
-<div class="page-action">Your Orders</div>
 <table class="table table-striped">
     <thead>
     <tr>
@@ -21,6 +9,8 @@
         <th>Price</th>
         <th>Description</th>
         <th>Type</th>
+        <th>Quantity</th>
+        <th></th>
     </tr>
     </thead>
     <tbody>
@@ -30,6 +20,15 @@
             <td><c:out value="${itemEntry.value.price}"/></td>
             <td><c:out value="${itemEntry.value.description}"/></td>
             <td><c:out value="${itemEntry.value.type}"/></td>
+            <td><c:out value="${itemEntry.value.quantity}"/></td>
+            <td>
+                <form:form action="reserve" method="post" modelAttribute="item">
+                    <form:hidden path="itemId" value="${itemEntry.value.itemId}"/>
+                    <button class="reserve-button" type="submit" name="reserve" id="reserve" value="Reserve Item">
+                        Reserve Item
+                    </button>
+                </form:form>
+            </td>
         </tr>
     </c:forEach>
     </tbody>
